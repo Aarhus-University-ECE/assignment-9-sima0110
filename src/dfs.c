@@ -12,6 +12,7 @@ void DFT (node * root)
 {
 	// Implement DFS
 	// Hint: You can use print_node, print_tree and/or print_stack.
+  **
 }
 
 node *make_node (int num, node * left, node * right)
