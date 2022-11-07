@@ -8,7 +8,6 @@ typedef struct node
   struct node *rchild;
 } node;
 
-
 node *make_node (int num, node * left, node * right);
 
 void free_node (node * p);
